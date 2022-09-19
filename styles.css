@@ -23,7 +23,7 @@ body{
 }
 
 #hero{
-    background-image: url("images/universe.webp");
+    background-image: url("universe.webp");
     background-size: cover;
     padding: 50px 0 400px 0;
 }
